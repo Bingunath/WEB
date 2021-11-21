@@ -1,6 +1,0 @@
-<p>Or 
-                    <a href="mailto:bigunathkalhara@gmail.com?subject=Manking an Inquiery">
-                        <img src="./images/Mailicon.jpg" width="40px"/> Mail to us </a> or <a href="/emailform.html">Use E-mail form</a>
-                    <a href="tel:+971 56 781 2706">CALL US</a>
-                
-                </p>
