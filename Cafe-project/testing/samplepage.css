@@ -1,0 +1,112 @@
+body {
+    font-family: Arial;
+    color: rgba(0,0,0,1 );
+}
+
+.prop {
+    background-color: aquamarine;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+    width: 200px;
+    height: 180px;
+    border: solid 2px ;
+    z-index: 1;
+}
+
+.gen {
+    background-color: aquamarine;
+    border: solid 2px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 150px;
+    left: 240px;
+    z-index: 4;
+}
+
+.posi {
+    background-color: aquamarine;
+    border: solid 2px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 200px;
+    left: 460px;
+    z-index: 3;
+
+}
+
+ .bck {
+     position: relative;
+     top: 300px;
+     background-color: bisque;
+     width: 100%;
+     height: 300px;
+ }
+ .bck h2 {
+     position: absolute;
+     left: 200px;
+     padding: 10px;
+ }
+
+ .out {
+    position: relative;
+    top: 500px;
+    background-color: bisque;
+    width: 100%;
+    height: 300px;
+}
+.out h2 {
+    position: absolute;
+    left: 200px;
+    padding: 10px;
+}
+
+.tab {
+    position: relative;
+    top: 750px;
+    background-color: bisque;
+    width: 100%;
+    height: 300px;
+}
+.tab h2 {
+    position: absolute;
+    left: 200px;
+    padding: 10px;
+}
+.top {
+    position: relative;
+    top: 90%;
+}
+
+div{
+    padding: 5px;
+}
+
+div ul {
+    list-style-type: square;
+
+}
+
+div ul li {
+    padding-top: 5px;
+
+}
+
+div ul li a {
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+    text-transform: lowercase;
+
+}
+
+div ul li a:visited {
+    color: red;
+
+}
+
+div ul li a:active {
+    color: green;
+
+}
